@@ -4,16 +4,17 @@ h1 a, h2 a {
 }
 body {
     padding-left: 15px;
+    background-color: #C25100;
 }
 .page-header {
-    background-color: #C25100;
+    background-color: #90FEFF;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
-    font-size: 36pt;
+    color: #90FEFF;
+    font-size: 50pt;
     text-decoration: none;
 }
 
